@@ -1,10 +1,12 @@
-## Welcome to Coding Club!
+## Welcome to The Coding Club
 
 You can use the [editor on GitHub](https://github.com/crysisgtr/state-farm-project/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
+This website has multiple lessons to help you see just how easy coding can be when you understand it.
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Hi Kolby
+### Topics
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
